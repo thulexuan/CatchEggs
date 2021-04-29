@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1617293890 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\commonfunction.cpp
+	"CommonFunction.h"
+
+1617212145 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\commonfunction.h
+	"SDL.h"
+	"SDL_image.h"
+	"windows.h"
+	<string>
+	<iostream>
+	"SDL_mixer.h"
+	"time.h"
+	"SDL_ttf.h"
+
+1616861796 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\baseobject.cpp
+	"BaseObject.h"
+
+1616861796 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\baseobject.h
+	"CommonFunction.h"
+
+1617293489 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Player.h"
+	"Eggs.h"
+	"Bomb.h"
+	"HealthObject.h"
+	"TextObject.h"
+
+1616864487 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\player.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1616867327 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\player.cpp
+	"Player.h"
+
+1617117033 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\eggs.cpp
+	"Eggs.h"
+
+1617116402 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\eggs.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1617293032 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\bomb.cpp
+	"Bomb.h"
+
+1617092673 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\bomb.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1617292024 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\healthobject.cpp
+	"HealthObject.h"
+
+1617291976 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\healthobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	<vector>
+
+1617210294 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\text.c
+
+1617212168 c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\textobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1617245063 source:c:\users\admin\onedrive\desktop\hki\ltnc\testsdl\game\textobject.cpp
+	"TextObject.h"
+
+1616861796 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\baseobject.cpp
+	"BaseObject.h"
+
+1616861796 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\baseobject.h
+	"CommonFunction.h"
+
+1617889551 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\commonfunction.h
+	"SDL.h"
+	"SDL_image.h"
+	"windows.h"
+	<string>
+	<iostream>
+	"SDL_mixer.h"
+	"time.h"
+	"SDL_ttf.h"
+
+1617293032 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\bomb.cpp
+	"Bomb.h"
+
+1617092673 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\bomb.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1619612628 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\commonfunction.cpp
+	"CommonFunction.h"
+
+1617117033 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\eggs.cpp
+	"Eggs.h"
+
+1617116402 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\eggs.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1619622193 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\healthobject.cpp
+	"HealthObject.h"
+
+1617291976 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\healthobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+	<vector>
+
+1619655619 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Player.h"
+	"Eggs.h"
+	"Bomb.h"
+	"HealthObject.h"
+	"TextObject.h"
+
+1616864487 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\player.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1617212168 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\textobject.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1617814997 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\player.cpp
+	"Player.h"
+
+1617245063 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\textobject.cpp
+	"TextObject.h"
+
+1617857958 source:c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\menu.cpp
+	"Menu.h"
+
+1617857958 c:\users\admin\onedrive\desktop\uet\ltnc\testsdl\game\menu.h
+	"CommonFunction.h"
+	"TextObject.h"
+
